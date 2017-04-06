@@ -1,0 +1,29 @@
+/*=========== purple ===========*/
+.main-menu ul.navbar-nav li.active a.theme-color{
+    color: #663399;
+}
+.main-menu ul.navbar-nav li:hover a.theme-color{
+    color: #663399;
+}
+
+.welcome-text h1 span.theme-color{
+    color: #663399;
+}
+.banner-icon.theme-color{
+    color: #663399;
+}
+.btn.theme-color, a.btn.theme-color{
+    background: #663399;
+    color: #fff;
+}
+.social-icon.theme-color a:hover{
+    background: #663399;
+    color: #fff;
+}
+.section-title h2 span.theme-color {
+  color: #663399;
+}
+.review-list .owl-dots div.active{
+    background: #663399;
+}
+/*=========== end purple ===========*/

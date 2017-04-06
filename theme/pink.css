@@ -1,0 +1,28 @@
+/*=========== pink ===========*/
+.main-menu ul.navbar-nav li.active a.theme-color{
+    color: #D2527F;
+}
+.main-menu ul.navbar-nav li:hover a.theme-color{
+    color: #D2527F;
+}
+.welcome-text h1 span.theme-color{
+    color: #D2527F;
+}
+.banner-icon.theme-color{
+    color: #D2527F;
+}
+.btn.theme-color, a.btn.theme-color{
+    background: #D2527F;
+    color: #fff;
+}
+.social-icon.theme-color a:hover{
+    background: #D2527F;
+    color: #fff;
+}
+.section-title h2 span.theme-color {
+  color: #D2527F;
+}
+.review-list .owl-dots div.active{
+    background: #D2527F;
+}
+/*=========== end pink ===========*/

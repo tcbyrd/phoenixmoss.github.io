@@ -1,0 +1,29 @@
+/*=========== blue ===========*/
+.main-menu ul.navbar-nav li.active a.theme-color{
+    color: #4183D7;
+}
+.main-menu ul.navbar-nav li:hover a.theme-color{
+    color: #4183D7;
+}
+
+.welcome-text h1 span.theme-color{
+    color: #4183D7;
+}
+.banner-icon.theme-color{
+    color: #4183D7;
+}
+.btn.theme-color, a.btn.theme-color{
+    background: #4183D7;
+    color: #fff;
+}
+.social-icon.theme-color a:hover{
+    background: #4183D7;
+    color: #fff;
+}
+.section-title h2 span.theme-color {
+  color: #4183D7;
+}
+.review-list .owl-dots div.active{
+    background: #4183D7;
+}
+/*=========== end blue ===========*/

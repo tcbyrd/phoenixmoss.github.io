@@ -1,0 +1,28 @@
+/*=========== red ===========*/
+.main-menu ul.navbar-nav li.active a.theme-color{
+    color: #DC143C;
+}
+.main-menu ul.navbar-nav li:hover a.theme-color{
+    color: #DC143C;
+}
+.welcome-text h1 span.theme-color{
+    color: #DC143C;
+}
+.banner-icon.theme-color{
+    color: #DC143C;
+}
+.btn.theme-color, a.btn.theme-color{
+    background: #DC143C;
+    color: #fff;
+}
+.social-icon.theme-color a:hover{
+    background: #DC143C;
+    color: #fff;
+}
+.section-title h2 span.theme-color {
+  color: #DC143C;
+}
+.review-list .owl-dots div.active{
+    background: #DC143C;
+}
+/*=========== end red ===========*/

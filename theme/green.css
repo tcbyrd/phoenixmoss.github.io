@@ -1,0 +1,28 @@
+/*=========== green ===========*/
+.main-menu ul.navbar-nav li.active a.theme-color{
+    color: #44b272;
+}
+.main-menu ul.navbar-nav li:hover a.theme-color{
+    color: #44b272;
+}
+.welcome-text h1 span.theme-color{
+    color: #44b272;
+}
+.banner-icon.theme-color{
+    color: #44b272;
+}
+.btn.theme-color, a.btn.theme-color{
+    background: #44b272;
+    color: #fff;
+}
+.social-icon.theme-color a:hover{
+    background: #44b272;
+    color: #fff;
+}
+.section-title h2 span.theme-color {
+  color: #44b272;
+}
+.review-list .owl-dots div.active{
+    background: #44b272;
+}
+/*=========== end green ===========*/

@@ -1,0 +1,28 @@
+/*=========== orange ===========*/
+.main-menu ul.navbar-nav li.active a.theme-color{
+    color: #FF5733;
+}
+.main-menu ul.navbar-nav li:hover a.theme-color{
+    color: #FF5733;
+}
+.welcome-text h1 span.theme-color{
+    color: #FF5733;
+}
+.banner-icon.theme-color{
+    color: #FF5733;
+}
+.btn.theme-color, a.btn.theme-color{
+    background: #FF5733;
+    color: #fff;
+}
+.social-icon.theme-color a:hover{
+    background: #FF5733;
+    color: #fff;
+}
+.section-title h2 span.theme-color {
+  color: #FF5733;
+}
+.review-list .owl-dots div.active{
+    background: #FF5733;
+}
+/*=========== end orange ===========*/

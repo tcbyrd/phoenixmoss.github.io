@@ -1,0 +1,28 @@
+/*======= yellow =========*/
+.main-menu ul.navbar-nav li.active a.theme-color{
+    color: #ffd505;
+}
+.main-menu ul.navbar-nav li:hover a.theme-color{
+    color: #ffd505;
+}
+.welcome-text h1 span.theme-color{
+    color: #ffd505;
+}
+.banner-icon.theme-color{
+    color: #ffd505;
+}
+.btn.theme-color, a.btn.theme-color{
+    background: #ffd505;
+    color: #fff;
+}
+.social-icon.theme-color a:hover{
+    background: #ffd505;
+    color: #fff;
+}
+.section-title h2 span.theme-color {
+  color: #ffd505;
+}
+.review-list .owl-dots div.active{
+    background: #ffd505;
+}
+/*======= end yellow =========*/
